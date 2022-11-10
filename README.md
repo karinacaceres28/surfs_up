@@ -5,7 +5,7 @@ The purpose of this project was to provide investor W.Avy information about temp
 
 ## Results
 ### Figure 1: Description of the data in June Temperatures °
-<img width="331" alt="Screenshot 2022-11-10 at 5 14 08 PM" src="https://user-images.githubusercontent.com/110318652/201227790-e4960ea2-985a-446d-afa0-c98580ec7594.png">
+<img width="285" alt="Screenshot 2022-11-10 at 5 11 19 PM" src="https://user-images.githubusercontent.com/110318652/201227792-3302726b-3731-4ebd-88c1-72a52ed40dbe.png">
 
     •	The temperature is averaging 75 °, having a minimum of 60 °, and maximum of 85.0 °.
     
@@ -14,7 +14,7 @@ The purpose of this project was to provide investor W.Avy information about temp
 
 
 ### Figure 2: Description of the data in December Temperatures
-<img width="285" alt="Screenshot 2022-11-10 at 5 11 19 PM" src="https://user-images.githubusercontent.com/110318652/201227792-3302726b-3731-4ebd-88c1-72a52ed40dbe.png">
+<img width="331" alt="Screenshot 2022-11-10 at 5 14 08 PM" src="https://user-images.githubusercontent.com/110318652/201227790-e4960ea2-985a-446d-afa0-c98580ec7594.png">
 
     •	The temperature is averaging 71 °, having a minimum of 56 °, and maximum of 83.0 °.
     
